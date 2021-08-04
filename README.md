@@ -5,9 +5,13 @@ Step-1: In your Ubuntu terminal, run: import cv2
 Step-2: run:
 
 pip install flask
+
 pip install opencv-python
+
 pip install numpy
+
 pip install tensorflow
+
 pip install imutils If it gets any error, probably with opencv-python try to install them manually.
 
 Running the Examples
